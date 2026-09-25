@@ -17,10 +17,10 @@
     <!-- Project Metadata                                                    -->
     <!-- =================================================================== -->
     <groupId>ca.hccis.squash</groupId>
-    <artifactId>squash_skills</artifactId>
+    <artifactId>sugarshackboillog</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>squash_skills_w26</name>
-    <description>Squash Skills Application</description>
+    <name>SugarShackBoilLog</name>
+    <description>Sugar Shack Boil Log Application</description>
     <packaging>jar</packaging>
 
     <!-- =================================================================== -->
