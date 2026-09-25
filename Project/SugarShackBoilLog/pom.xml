@@ -16,7 +16,7 @@
     <!-- =================================================================== -->
     <!-- Project Metadata                                                    -->
     <!-- =================================================================== -->
-    <groupId>ca.hccis.squash</groupId>
+    <groupId>ca.hccis.sugarshackboillog</groupId>
     <artifactId>sugarshackboillog</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>SugarShackBoilLog</name>
