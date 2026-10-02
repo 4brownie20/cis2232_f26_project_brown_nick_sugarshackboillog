@@ -6,7 +6,7 @@ Business Client:  Kody Verhulp
 <br/>
 Lead Developer:  Nick Brown
 <br/>
-Quality Control:  TBD
+Quality Control:  Ben Proulx
 <br/>
 ---
 ## Description ##
